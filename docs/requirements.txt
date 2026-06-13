@@ -6,3 +6,4 @@ ipython
 sphinx-autodoc-typehints
 furo
 pandoc
+idna>=3.15 # not directly required, pinned by Snyk to avoid a vulnerability
