@@ -4,3 +4,4 @@ requests
 sentence_transformers
 tabulate
 redis #install latest stable version
+idna>=3.15 # not directly required, pinned by Snyk to avoid a vulnerability
